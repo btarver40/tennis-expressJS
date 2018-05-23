@@ -11,17 +11,17 @@ a {
 }
 
 .nav-wrapper {
-  background-color: greenyellow;
+  background-color: rgb(160, 232, 53);
 }
 
-.center {
+.welcome {
   font-size: 30px;
 }
 
 .background {
-  background-image: linear-gradient( rgba(194, 194, 194, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/tennis2.jpg');
+  background-image: url('../images/tennis2.jpg');
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 95%;
 }
