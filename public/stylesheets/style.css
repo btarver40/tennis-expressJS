@@ -1,0 +1,27 @@
+@import 'materialize.min.css';
+
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.nav-wrapper {
+  background-color: greenyellow;
+}
+
+.center {
+  font-size: 30px;
+}
+
+.background {
+  background-image: linear-gradient( rgba(194, 194, 194, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/tennis2.jpg');
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
